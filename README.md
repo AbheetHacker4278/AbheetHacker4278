@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **aseth9588@gmail.com**
 
-- ⚡ Fun fact **I think I would be Successful cyber Developer**
+- ⚡ Fun fact **I would be Successful cyber Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abheet-seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abheet-seth" height="30" width="40" /></a>
-<a href="https://instagram.com/abheet seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abheet seth" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abheet_seth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abheet_seth_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abheet-seth-58533a251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abheet-seth" height="30" width="40" /></a>
+<a href="https://instagram.com/abheet_seth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abheet seth" height="30" width="40" /></a>
+<a href="https://leetcode.com/abheet_seth_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abheet_seth_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/asethq4nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asethq4nl" height="30" width="40" /></a>
 </p>
 
