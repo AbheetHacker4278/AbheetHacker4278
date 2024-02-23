@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abheet Seth</h1>
 <h3 align="center">A passionate FullStack developer from India , 2nd Year Computer Science Engineering Student , at Vit Bhopal</h3>
 
-<img align="center" width="400px" height="400px" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif">
+<img align="center" width="700px" height="400px" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abheethacker4278&label=Profile%20views&color=0e75b6&style=flat" alt="abheethacker4278" /> </p>
 
