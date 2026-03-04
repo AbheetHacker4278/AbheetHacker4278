@@ -35,7 +35,7 @@ location: India 🇮🇳
 education:
   degree: B.Tech Computer Science Engineering
   institute: VIT Bhopal
-  year: Final Year (2025)
+  year: Final Year (2026)
 current_focus:
   - Full Stack Web Development (MERN Stack)
   - Cybersecurity & Ethical Hacking
