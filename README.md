@@ -102,12 +102,7 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abheethacker4278&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&hide_border=false&cache_seconds=1800" />
 <img width="49%" src="https://streak-stats.demolab.com?user=abheethacker4278&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=ff4444&currStreakLabel=00f5ff" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheethacker4278&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&layout=compact&cache_seconds=1800" />
-
-</div>
 
 ---
 
