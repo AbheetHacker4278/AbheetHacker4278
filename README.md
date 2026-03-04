@@ -1,35 +1,154 @@
-<h1 align="center">Hi 👋, I'm Abheet Seth</h1>
-<h3 align="center">A passionate FullStack developer from India , Final Year Computer Science Engineering Student , at Vit Bhopal</h3>
+<div align="center">
 
-<img align="center" width="900px" height="400px" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif">
+```
+ █████╗ ██████╗ ██╗  ██╗███████╗███████╗████████╗    ███████╗███████╗████████╗██╗  ██╗
+██╔══██╗██╔══██╗██║  ██║██╔════╝██╔════╝╚══██╔══╝    ██╔════╝██╔════╝╚══██╔══╝██║  ██║
+███████║██████╔╝███████║█████╗  █████╗     ██║       ███████╗█████╗     ██║   ███████║
+██╔══██║██╔══██╗██╔══██║██╔══╝  ██╔══╝     ██║       ╚════██║██╔══╝     ██║   ██╔══██║
+██║  ██║██████╔╝██║  ██║███████╗███████╗   ██║       ███████║███████╗   ██║   ██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝       ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abheethacker4278&label=Profile%20views&color=0e75b6&style=flat" alt="abheethacker4278" /> </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abheethacker4278" alt="abheethacker4278" /></a> </p>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Final+Year+CS+Student+%40+VIT+Bhopal;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **Express-Js , React-Js , Mongo-DB**
+---
 
-- 👨‍💻 All of my projects are available at [https://abheethacker4278.github.io/portfolio-Webpage/](https://abheethacker4278.github.io/portfolio-Webpage/)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abheethacker4278&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/abheethacker4278?label=FOLLOWERS&style=for-the-badge&color=00f5ff" />
+  <a href="mailto:aseth9588@gmail.com"><img src="https://img.shields.io/badge/EMAIL-aseth9588%40gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-- 📫 How to reach me **aseth9588@gmail.com**
+---
 
-- ⚡ Fun fact **I would be Successful cyber Developer**
+## 👾 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abheet-seth-58533a251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abheet-seth" height="30" width="40" /></a>
-<a href="https://instagram.com/abheet_seth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abheet seth" height="30" width="40" /></a>
-<a href="https://leetcode.com/abheet_seth_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abheet_seth_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asethq4nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asethq4nl" height="30" width="40" /></a>
-</p>
+```yaml
+name: Abheet Seth
+location: India 🇮🇳
+education:
+  degree: B.Tech Computer Science Engineering
+  institute: VIT Bhopal
+  year: Final Year (2025)
+current_focus:
+  - Full Stack Web Development (MERN Stack)
+  - Cybersecurity & Ethical Hacking
+  - Building scalable web applications
+goals:
+  - Become a skilled Cyber Developer
+  - Contribute to open source
+  - Land a top-tier tech role
+fun_fact: "The best debugger is the one between your ears 🧠"
+portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abheethacker4278&show_icons=true&locale=en&layout=compact" alt="abheethacker4278" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abheethacker4278&show_icons=true&locale=en" alt="abheethacker4278" /></p>
+### 💻 Languages
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abheethacker4278&" alt="abheethacker4278" /></p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+### 🌐 Frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+### ⚙️ Backend & Database
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### 🧰 Tools & DevOps
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abheethacker4278&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&hide_border=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abheethacker4278&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=ff4444&currStreakLabel=00f5ff" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheethacker4278&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&layout=compact" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abheethacker4278&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abheethacker4278&theme=tokyo-night&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=false" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://abheethacker4278.github.io/portfolio-Webpage/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abheet-seth-58533a251)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abheet_seth_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abheet_seth_/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/asethq4nl)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aseth9588@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  "Code is not just a skill — it's a superpower."        ║
+║                                          — Abheet Seth   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+⭐ **If you find my work interesting, drop a star on my repos!** ⭐
+
+</div>
