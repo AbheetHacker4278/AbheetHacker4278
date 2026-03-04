@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Final+Year+CS+Student+%40+VIT+Bhopal;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Final+Year+CS+%40+VIT+Bhopal;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
 </div>
 
@@ -35,7 +35,7 @@ location: India 🇮🇳
 education:
   degree: B.Tech Computer Science Engineering
   institute: VIT Bhopal
-  year: Final Year (2026)
+  year: Final Year (2025)
 current_focus:
   - Full Stack Web Development (MERN Stack)
   - Cybersecurity & Ethical Hacking
@@ -99,12 +99,12 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abheethacker4278&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&hide_border=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abheethacker4278&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=ff4444&currStreakLabel=00f5ff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abheethacker4278&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&hide_border=false&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=abheethacker4278&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=ff4444&currStreakLabel=00f5ff" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheethacker4278&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheethacker4278&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&layout=compact&cache_seconds=1800" />
 </div>
 
 ---
@@ -120,7 +120,7 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abheethacker4278&theme=tokyo-night&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abheethacker4278&bg_color=1a1b27&color=00f5ff&line=00f5ff&point=ffffff&area_color=00f5ff&area=true&hide_border=false" />
 </div>
 
 ---
