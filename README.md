@@ -9,20 +9,18 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝       ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-</div>
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Final+Year+CS+%40+VIT+Bhopal;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Final+Year+CS+%40+VIT+Bhopal;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abheethacker4278&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/abheethacker4278?label=FOLLOWERS&style=for-the-badge&color=00f5ff" />
-  <a href="mailto:aseth9588@gmail.com"><img src="https://img.shields.io/badge/EMAIL-aseth9588%40gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=abheethacker4278&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/abheethacker4278?label=FOLLOWERS&style=for-the-badge&color=00f5ff" />
+<a href="mailto:aseth9588@gmail.com"><img src="https://img.shields.io/badge/EMAIL-aseth9588%40gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
 ---
@@ -53,6 +51,7 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,6 +64,7 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 </div>
 
 ### 🌐 Frontend
+
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -76,6 +76,7 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 </div>
 
 ### ⚙️ Backend & Database
+
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -85,6 +86,7 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 </div>
 
 ### 🧰 Tools & DevOps
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -99,12 +101,12 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abheethacker4278&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&hide_border=false&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=abheethacker4278&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=ff4444&currStreakLabel=00f5ff" />
-</div>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheethacker4278&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&layout=compact&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abheethacker4278&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&hide_border=false&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=abheethacker4278&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=ff4444&currStreakLabel=00f5ff" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheethacker4278&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&layout=compact&cache_seconds=1800" />
+
 </div>
 
 ---
@@ -112,7 +114,9 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=AbheetHacker4278" />
+
+<img src="https://github-trophies.vercel.app/?username=AbheetHacker4278&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&margin-h=8" />
+
 </div>
 
 ---
@@ -120,7 +124,9 @@ portfolio: https://abheethacker4278.github.io/portfolio-Webpage/
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abheethacker4278&bg_color=1a1b27&color=00f5ff&line=00f5ff&point=ffffff&area_color=00f5ff&area=true&hide_border=false" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abheethacker4278&bg_color=1a1b27&color=00f5ff&line=00f5ff&point=ffffff&area_color=00f5ff&area=true&hide_border=false" />
+
 </div>
 
 ---
